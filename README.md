@@ -4,5 +4,5 @@
 Cassava leaf data: https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data
 1. Install the Pytorch and einops libraries
 2. Download the leaf data
-2. change the path of data
-3. Train the model
+3. Change the path of data
+4. Train the model
