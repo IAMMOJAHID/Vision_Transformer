@@ -1,5 +1,6 @@
 # Vision_Transformer
-![image](https://github.com/IAMMOJAHID/Vision_Transformer/assets/86100226/a8fe5f51-7e00-49b2-aab3-830da3d343de)
+![image](https://github.com/IAMMOJAHID/Vision_Transformer/assets/86100226/3b957f9d-6440-470b-8550-4bd11f33cd2a)
+
 
 Cassava leaf data: https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data
 
