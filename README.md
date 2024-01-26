@@ -8,4 +8,4 @@ Steps:
 3. Change the path of data
 4. Train the model
 
-Want to learn about self attention? explore this link: https://peterbloem.nl/blog/transformers
+Want to learn about self attention? follow this link: https://peterbloem.nl/blog/transformers
